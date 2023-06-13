@@ -1,0 +1,14 @@
+.loginCont{
+    left: 0;
+}
+
+.Pasword{
+    position: absolute;
+    right: 13%;
+    top: 50%;
+}
+  
+.Pasword i{
+    color: #8d8d8d;
+    position: absolute;
+}
