@@ -8125,7 +8125,7 @@ button.swiper-pagination-bullet {
     min-height: 100px;
     top: 0;
     left: 0;
-    background-color: #FF0032;
+    background-color: gold !important;
     display: flex;
     justify-content: space-between;
     z-index: 10;
